@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media1.giphy.com/media/OYwYE7UtTTqLBfpBS8/giphy.gif?cid=6c09b952pr3tmk4kbx36hu9v34wxxfyg1skps9y03zx6x7tk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**Stebinraj/StebinRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm Stebin, a full-stack developer 👨‍💻 specializing in the MERN stack</div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+</div>
