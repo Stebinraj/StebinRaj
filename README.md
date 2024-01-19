@@ -7,11 +7,11 @@
 <br/>
 
 <ul>
-  <li><p>🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-</p></li>
-  <li><p>🌱 I’m currently learning Hyperledger and Kubernetes </p></li>
-  <li><p>❓ Ask me about anything related to MERN stack and related technologies</p></li>
-  <li><p>⚡ Fun fact: I use tabs over spaces </p></li>
+  <li><h4>🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+</h4></li>
+  <li><h4>🌱 I’m currently learning Hyperledger and Kubernetes </h4></li>
+  <li><h4>❓ Ask me about anything related to MERN stack and related technologies</h4></li>
+  <li><h4>⚡ Fun fact: I use tabs over spaces </h4></li>
 </ul>
   
 <br/>
