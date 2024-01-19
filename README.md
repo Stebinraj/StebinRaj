@@ -3,6 +3,8 @@
 </div>  
   
 ### <div align="center">I'm Stebin, a full-stack developer 👨‍💻 specializing in the MERN stack</div>  
+
+<br/>
   
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
 
@@ -15,6 +17,9 @@
 <br/>
 
 ## <div align="center">My Skill Set</div>
+
+<br/>
+
 <table><tr><td valign="center" width="50%">
 
 ### <div align="center">Programming Languages</div>  
@@ -97,3 +102,5 @@
 </table>  
 
 <br/>  
+
+## <div align="center">Connect With Me</div>
