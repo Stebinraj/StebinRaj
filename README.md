@@ -115,7 +115,7 @@
         <a href="https://www.instagram.com/stebin_raj"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="50" alt="instagram logo"  /></a>
         <a href="https://www.facebook.com/profile.php?id=61554544067188"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="50" alt="facebook logo"  /></a>
         <a href="https://t.me/stebinraj"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="50" alt="telegram logo"  /></a>
-        <a href=""><img src="https://img.icons8.com/ios-filled/500/twitterx--v1.png" height="50" alt="twitter logo"  /></a>
+        <a href="https://x.com/stebinraj22"><img src="https://img.icons8.com/ios-filled/500/twitterx--v1.png" height="50" alt="twitter logo"  /></a>
         <a href="https://wa.me/+918925688675"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="50" alt="whatsapp logo"  /></a>
         <a href="https://discord.gg/tQrXFWMv"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="50" alt="discord logo"  /></a>
 </td>
