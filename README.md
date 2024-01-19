@@ -122,3 +122,21 @@
 </tr>
 </table>
 </div>
+
+<br/>
+
+## <div align="center">GitHub Stats</div>
+
+<br/>
+
+<div align="center">
+  <table><tr><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Stebinraj&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stebinraj&hide_border=true&layout=compact" align="left" />
+
+</td></tr></table>  
+</div>
