@@ -117,7 +117,7 @@
         <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="50" alt="telegram logo"  /></a>
         <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="50" alt="twitter logo"  /></a>
         <a href="https://wa.me/+918925688675"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="50" alt="whatsapp logo"  /></a>
-        <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="50" alt="discord logo"  /></a>
+        <a href="https://discord.com/users/stebinraj"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="50" alt="discord logo"  /></a>
 </td>
 </tr>
 </table>
