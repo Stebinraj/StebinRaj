@@ -75,6 +75,23 @@
 </div>
 
 </td></tr>
+
+<tr><td valign="center" width="50%">
+
+### <div align="center">Designs</div>  
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="80" alt="canva logo"  />
+</div>
+
+</td><td valign="center" width="50%">
+
+### <div align="center">Tools</div> 
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="80" alt="vscode logo"  />
+</div>
+
+</td></tr>
 </table>  
 
 <br/>  
