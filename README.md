@@ -5,9 +5,9 @@
 ## <div align="center">I'm Stebin, a full-stack developer 👨‍💻 specializing in the MERN stack</div>  
 
 <ul>
-  <li><h4>🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  <li><h4>🔭 I’m currently looking for a job  
 </h4></li>
-  <li><h4>🌱 I’m currently learning Hyperledger and Kubernetes </h4></li>
+  <li><h4>🌱 I’m currently learning Next.js and TypeScript</h4></li>
   <li><h4>❓ Ask me about anything related to MERN stack and related technologies</h4></li>
   <li><h4>⚡ Fun fact: I use tabs over spaces </h4></li>
 </ul>
